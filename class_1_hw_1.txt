@@ -1,0 +1,69 @@
+			"
+  Enter P for Present, L for Late, E for Excused absence, and U for Unexcused absence. Use the 'Attendance key' tab to customize. 
+"															
+Attendees List	Contact Information	1 hour per class	7/20	8/3	8/17	8/31	9/14	9/28	10/12	10/26	11/9	11/23	12/7	12/21	Late	Excused absence	Unexcused absence	Appreciate!
+Lecturer: Steven Jiang	stevenjiang@hiretual.com	5-6 pm PT	Thu	Thu	Thu	Thu	Thu	Thu	Thu	Thu	Thu	Thu	Thu	Thu	L	E	U	
+Susanna Conway	ohsusannamarie@gmail.com	Confirmed																
+David Nicola	davidlnicola@gmail.com	Confirmed													0	0	0	
+Dean Da Costa	star4343@hotmail.com	Confirmed													0	0	0	
+Eugene Lum	eugeneltk@gmail.com	Confirmed													0	0	0	
+Jonathan Tarrico	jon@pierpoint.com	Confirmed													0	0	0	
+Kameron Swinton	kswinton@gmail.com	Confirmed													0	0	0	
+Michael Crouse	mcrouse911@gmail.com	Confirmed													0	0	0	
+Nidhi Jain	nidhijainmba@gmail.com	confirmed													0	0	0	
+Patrick Christell	euphony2012@gmail.com	confirmed													0	0	0	
+Sarah Goldberg	sgoldberg@oprecruiting.com	confirmed													0	0	0	
+Jess Roberts	jroberts257@gmail.com	Confirmed													0	0	0	
+Kristin Lachen	kristin.lachen@gmail.com	Confirmed													0	0	0	
+Mark Lundgren	mark.lundgren@gmail.com	Confirmed													0	0	0	
+Carmen Hudson	carmen@recruitingtoolbox.com	Confirmed													0	0	0	
+Patrick Moran	patrickmoran7@gmail.com	Confirmed													0	0	0	
+Guillermina Cabello	guillec@terss.com	Confirmed													0	0	0	
+Angie Verros Angelopoulos	verros.angie@gmail.com	Confirmed													0	0	0	
+Iker Jusue	ijusue@gmail.com	Confirmed													0	0	0	
+Suvasanmayee Viswanatha	suvasanamayee@gmail.com	Confirmed													0	0	0	
+Trish Wyderka	trish@fideliscompanies.com	Confirmed													0	0	0	
+Callie Neumann	callie.r.neumann@gmail.com	Confirmed													0	0	0	
+Katie Gechijian	kgechijian@gmail.com	Confirmed													0	0	0	
+Leanna Siu	Leanna.siu@gmail.com	Confirmed 													0	0	0	
+Cyndy Davis	cyndy.davis@hmhco.com	Confirmed 													0	0	0	
+David Jaramillo	d.jaramillo@ymail.com	Confirmed 													0	0	0	
+Ronnie Bratcher	ronnie@aretealliance.com	Confirmed-will miss 7/20 due to meeting													0	0	0	
+Ben Dehghan	bendehghan@gmail.com														0	0	0	
+Bert Dickerson	IntelRecruiterDC@gmail.com														0	0	0	
+Cathy Neal	cathy.e.neal@monsanto.com														0	0	0	
+Chris Hayes	chris.hayes@cbts.net														0	0	0	
+Cory Clark	cory@adonai-employment.org														0	0	0	
+Derek Zeller	derdiver@outlook.com														0	0	0	
+Ernie Moreno	epmoreno@comcast.net														0	0	0	
+Gautam Sunny Badekar	bdm.sunny@gmail.com														0	0	0	
+Glenn Gutmacher	ggutmacher@statestreet.com														0	0	0	
+Greg Hawkes	gthawkes@mdanderson.org														0	0	0	
+Guillermina Cabello	guillec@terss.com														0	0	0	
+Ivan Stojanovic	ivan@irishrecruiter.com														0	0	0	
+Jeremy Da Costa	jdacosta42@gmail.com														0	0	0	
+Jo Weech	federalcontractingit@gmail.com														0	0	0	
+John Rose	resourcefuljohn@gmail.com														0	0	0	
+Josh Madrid	josh.madrid@fedex.com														0	0	0	
+Klara Hermesz	hermesz.clari@gmail.com														0	0	0	
+Maisha Cannon	maishac@gmail.com														0	0	0	
+Marc Spiron	mspiron@gmail.com														0	0	0	
+Megan Calimbas	megan.mmm@gmail.com														0	0	0	
+Neka Kerr	anneika.kerr@gmail.com														0	0	0	
+Pete Radloff	pjradloff@gmail.com														0	0	0	
+Ryan Gillis	rgillis@tmg-dc.com														0	0	0	
+Ryan Leary	ryan@recruitingdaily.com														0	0	0	
+Sean Rehder	sean@seanrehder.com														0	0	0	
+Shannon Pritchett	shannon@ere.net														0	0	0	
+Stephan Kim	Stephankim405@gmail.com														0	0	0	
+Steven Jiang	stevenjiang@hiretual.com														0	0	0	
+Sunny Badekar	bdm.sunny@gmail.com														0	0	0	
+Suzy Tonini	stonini@gmail.com														0	0	0	
+Tiffany Johnson	Johnsoti@iu.edu														0	0	0	
+Todd Davis	todd@thecandidategenerator.com														0	0	0	
+Vijay Veerachandran	vijay1636@gmail.com														0	0	0	
+Alla Grekov	grekovag@amazon.com														0	0	0	
+Michelle Smith	michelle.smith@kcura.com														0	0	0	
+Junius Currier	junius.currier@colonialwebb.com														0	0	0	
+															0	0	0	
+															0	0	0	
